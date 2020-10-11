@@ -1,8 +1,6 @@
-*.swp
-*.osm
+monitor
+a.out
+settings.json
 *.o
-draw.cpp
-test.cpp
-build/
-bin/
-lib/
+build/*
+*.json

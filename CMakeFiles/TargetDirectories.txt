@@ -1,0 +1,3 @@
+/home/viper/udacity_ws/Monitor/CMakeFiles/rebuild_cache.dir
+/home/viper/udacity_ws/Monitor/CMakeFiles/monitor.dir
+/home/viper/udacity_ws/Monitor/CMakeFiles/edit_cache.dir
